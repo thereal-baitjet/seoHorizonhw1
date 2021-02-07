@@ -2,28 +2,29 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    background-color: #d9dcd6;
 }
-
+/* selects all elements and gives them size color and positioning values */
 body {
     background-color: #d9dcd6;
 }
-
+/* this sets the color of the background of entire page */ 
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* sets position font style and colors "hori"seo"n" and three links*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* sets position font style and colors of the begining word "hori"seo"n" */
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* sets color of the "seo" part of the logo */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,11 +32,11 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/*sets positioning of the three links and font style and size*/
 .header div ul {
     list-style-type: none;
 }
-
+/*takes bullets away fro m link list*/
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
@@ -45,11 +46,11 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* sets links colors to white lettering*/
 p {
     font-size: 16px;
 }
-
+/* sets font size to paragraphs that describe each h2s */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +59,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/*sets size to meeting pic and positioning*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -68,13 +69,13 @@ p {
     float: right;
     margin-left: 25px;
 }
-
+/* floats images to their position */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* sets size and position of all the content section*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -84,56 +85,15 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
-}
-
-.benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
+/* consolidated benefits exees code and place it all under .benefits */
+h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
+/* consolidated h3 css atributes*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -161,40 +121,26 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+img {
     max-height: 200px;
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
 }
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2 {
+/* cosolidated css code for image into one from many */
+ h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
+/* consolidated all h2 css into one for the font size and positioning*/
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
-.footer h2 {
+/* copywrite and message position and font  */
+.footer h4 {
     font-size: 20px;
 }
+/*footer message font size*/
