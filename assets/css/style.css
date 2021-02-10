@@ -6,7 +6,7 @@
 
 body {
     background-color: #d9dcd6;
-    /* sets pages background color */
+    
 }
 
 .header {
@@ -28,24 +28,24 @@ body {
 }
 /* sets variation of color in logo */
 
-.header div {
+.header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
-.header div ul {
+/* changed div to nav in order to apply properties to the nav bar*/
+.header nav ul {
     list-style-type: none;
     /* Takes away dots from unordered list */
 }
-
-.header div ul li {
+/* changed div to nav in order to apply properties to the nav bar*/
+.header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* changed div to nav in order to apply properties to the nav bar*/
 a {
     color: #ffffff;
     text-decoration: none;
@@ -80,7 +80,7 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-    /* sets style to all images assets */
+
 }
 
 .benefits {
@@ -95,21 +95,11 @@ p {
     /* assigns style attributes to the benefits section on the aside section */
 }
 
-.benefit-lead {
+.benefits {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
+/*consolidated to benefits css*/ 
 h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -182,7 +172,7 @@ h3 {
     font-size: 36px;
 }
 
-.social-media-marketing h2 {
+.social-media-marketing  h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -194,7 +184,7 @@ h3 {
     text-align: center;
 }
 
-.footer h4 {
+.footer h2 {
     font-size: 20px;
-     /* changed footer h2 to h4 in order to keep sequence */
+     
 }

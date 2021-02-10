@@ -2,7 +2,7 @@
 
 ## Description
 
-On this project i attempt to fix up Horiseon Webpage correctly. I fixed a link wich wasn't working correctly on the nav bar. i added semantic element to the html. added details on each of my edits to keep track of what was going on, for me and future developers. Commented on css elements and what they do. Added a website name to the title in order for a better name to pop up in the tab description. consolidated some css selectors.
+On this project i attempt to fix up Horiseon Webpage correctly. I fixed a link wich wasn't working correctly on the nav bar. i added semantic element to the html. added details on each of my edits to keep track of what was going on, for me and future developers. Commented on css changes. Added a website name to the title in order for a better name to pop up in the tab description. consolidated some css selectors.
 
 ## Installation 
 
@@ -12,6 +12,7 @@ Click url in order to see page.
 
 Freecodecamp.org/learn applied accesibility section
 w3schools.com 
+Brian Adams colaborated with consolidating h3 selector into one.
 
 ## License 
 
