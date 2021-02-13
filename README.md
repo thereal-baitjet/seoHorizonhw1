@@ -36,11 +36,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-
-
-![Refactor Snapshot](/images/logo.png)
-Format: ![Alt Text](url)
-
-
-
+![refactor snapshot](https://github.com/thereal-baitjet/seoHorizonhw1/blob/main/assets/images/2021-02-12-20-27-thereal-baitjet.github.io.png)
 
