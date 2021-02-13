@@ -38,5 +38,9 @@ SOFTWARE.
 
 
 
+![Refactor Snapshot](/images/logo.png)
+Format: ![Alt Text](url)
+
+
 
 
