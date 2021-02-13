@@ -38,3 +38,7 @@ SOFTWARE.
 
 ![refactor snapshot](https://github.com/thereal-baitjet/seoHorizonhw1/blob/main/assets/images/2021-02-12-20-27-thereal-baitjet.github.io.png)
 
+[link to my refactor webpage](https://thereal-baitjet.github.io/seoHorizonhw1/)
+
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FBaitjet4)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fthereal-baitjet.github.io%2FseoHorizonhw1%2F)
+
