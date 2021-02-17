@@ -10,6 +10,7 @@ Click url in order to see page.
 
 ## Credits 
 
+Kieran Anderson
 Freecodecamp.org/learn applied accesibility section
 w3schools.com 
 Brian Adams colaborated with consolidating h3 selector into one.
